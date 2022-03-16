@@ -1,0 +1,6 @@
+### url-rewrite/express/app.js
+GET http://localhost:8000/index
+
+
+### url-rewrite/app.js
+GET http://localhost:8080/index
