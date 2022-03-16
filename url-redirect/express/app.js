@@ -10,7 +10,7 @@ app.get('/', (req, res, next) => {
   next();
 });
 
-app.get('/home', function (req, res) {
+app.get('/home', function (req, fold) {
   res.send("Redirected to Home Page | using express server");
 });
 
